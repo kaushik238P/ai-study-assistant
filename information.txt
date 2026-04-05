@@ -1,0 +1,6 @@
+streamlit       → builds the UI with simple Python
+langchain       → RAG pipeline and chains
+langchain-ollama→ connects LangChain to Ollama
+langchain-chroma→ connects LangChain to ChromaDB
+chromadb        → vector database (stores embeddings)
+pymupdf         → reads PDF files (fast and reliable)

@@ -1,0 +1,31 @@
+INTRODUCTION TO DRONE TECHNOLOGY
+
+Chapter 1: What is a Drone?
+A drone is an unmanned aerial vehicle (UAV) that can be controlled remotely or fly autonomously. Drones are used in various industries including agriculture, surveillance, delivery, and photography. Modern drones are equipped with GPS, sensors, and cameras.
+
+Chapter 2: Types of Drones
+There are several types of drones based on their design and purpose.
+Fixed-wing drones look like airplanes and are used for long-distance flights.
+Multi-rotor drones like quadcopters are used for photography and surveillance.
+Single-rotor drones resemble helicopters and carry heavier payloads.
+Hybrid drones combine fixed-wing and multi-rotor designs for versatility.
+
+Chapter 3: Drone Components
+Every drone consists of a frame, motors, propellers, battery, flight controller, and sensors.
+The flight controller is the brain of the drone. It processes sensor data and controls motors.
+GPS modules help drones navigate and hold position automatically.
+Cameras and gimbals are used for aerial photography and videography.
+
+Chapter 4: Drone Applications
+Drones are used in agriculture for crop monitoring and pesticide spraying.
+In construction, drones survey land and monitor project progress.
+Delivery drones can transport packages to remote locations quickly.
+Military drones are used for reconnaissance and combat missions.
+Search and rescue drones locate missing persons in disaster zones.
+
+Chapter 5: Drone Regulations
+In India, drones are regulated by the Directorate General of Civil Aviation (DGCA).
+All drones above 250 grams must be registered with the DGCA.
+Drones cannot fly above 400 feet without special permission.
+Flying drones near airports, military zones, and crowds is strictly prohibited.
+A Remote Pilot License is required to operate drones commercially.
